@@ -81,6 +81,5 @@ project/
 This project demonstrates the integration of deep learning (YOLOv8) with a web interface (Streamlit) to perform real-time object detection.
 
 ---
-
-##BINUJA BABU
+BINUJA BABU
 
